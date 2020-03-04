@@ -25,3 +25,12 @@ Working of VAE:
 There are two loss functions associated with VAE:
  * Reconstruction Loss ( Usually a Binary Cross Entropy Loss Function)
  * Kullback–Leibler divergence
+ 
+ 
+### Results:
+
+Encoding on Graphical Mapping:
+
+Data: Fashion MNIST
+
+![Graph](https://github.com/kushalvala/variational-autoencoder/blob/master/artifacts/Encodings.png)
