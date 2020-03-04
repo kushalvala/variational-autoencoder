@@ -26,6 +26,10 @@ There are two loss functions associated with VAE:
  * Reconstruction Loss ( Usually a Binary Cross Entropy Loss Function)
  * Kullback–Leibler divergence
  
+The main function is to use variational inference to approximate the encoder distribution from latent space encoding layers.
+To do that, we use KL Divergence which gives us a measure of difference between two probability distributions.
+
+![Decoder](https://github.com/kushalvala/variational-autoencoder/blob/master/artifacts/Decoder Network.png)
  
 ### Results:
 
