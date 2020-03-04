@@ -19,4 +19,4 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 
 Working of VAE:
 
-[!VAE Architecture]()
+[!VAE Architecture](https://github.com/kushalvala/variational-autoencoder/blob/master/artifacts/VAE-Architecture.png)
