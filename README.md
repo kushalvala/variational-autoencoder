@@ -8,4 +8,4 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 
 ### Architecture:
 
-
+A Single Hidden Layer between Encoder and Latent Encoding Layer implemented in TensorFlow.
