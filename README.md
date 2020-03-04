@@ -20,3 +20,8 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 Working of VAE:
 
 ![VAE Architecture](https://github.com/kushalvala/variational-autoencoder/blob/master/artifacts/VAE-Architecture.png)
+
+
+There are two loss functions associated with VAE:
+ * Reconstruction Loss ( Usually a Binary Cross Entropy Loss Function)
+ * Kullback–Leibler divergence
