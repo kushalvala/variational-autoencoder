@@ -38,3 +38,7 @@ Encoding on Graphical Mapping:
 Data: Fashion MNIST
 
 ![Graph](https://github.com/kushalvala/variational-autoencoder/blob/master/artifacts/Encodings.png)
+
+Data in Latent Space:
+
+![Latent Space](https://github.com/kushalvala/variational-autoencoder/blob/master/artifacts/Image%20Generation.png)
